@@ -1,0 +1,6 @@
+onetoone_uni\dto\AadharCard.class
+hibernate_onetoone_uni\dao\AadharcardDAO.class
+hibernate_onetoone_uni\dao\Accenturn.class
+onetoone_uni\dto\Person.class
+hibernate_onetoone_uni\dao\PersonDao.class
+hibernate_onetoone_uni\controller\MainController.class
