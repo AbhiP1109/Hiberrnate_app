@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.qsp</groupId>
   <artifactId>hibernate_onetoone_uni</artifactId>
-  <version>0.0.1-RELESE</version>
+  <version>0.0.1-SNAPSHOT</version>
   <dependencies>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
