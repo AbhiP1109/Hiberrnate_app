@@ -13,9 +13,13 @@ public class MainController {
 	static PersonDao dao = new PersonDao();
 	static AadharcardDAO dao2 = new AadharcardDAO();
 
-     // task 102
-	public static void m2(){
-		//logic
+
+    //Task 101
+	private void m1(){
+		int i= 10;
+		int j= 20;
+
+		// logic
 	}
 
 	public static void main(String[] args) {
