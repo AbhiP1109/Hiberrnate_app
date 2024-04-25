@@ -13,6 +13,11 @@ public class MainController {
 	static PersonDao dao = new PersonDao();
 	static AadharcardDAO dao2 = new AadharcardDAO();
 
+     // task 102
+	public static void m2(){
+		//logic
+	}
+
 	public static void main(String[] args) {
 		System.out.println(
 				"Choice a option \n1.Save Person \n2.Find Person By Id \n3.Find All Persons \n4.Delete Aadhar \n5.Update Aadhar \n6.Update person \n7.Update Both21");
